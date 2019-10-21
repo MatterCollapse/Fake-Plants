@@ -67,7 +67,7 @@ public class HelloFX extends Application {
         Slider plantQuantity = new Slider(1, 100, 20);
         plantQuantity.setShowTickLabels(true);
         plantQuantity.setShowTickMarks(true);
-        Slider subPercentage = new Slider(0, 100, 0);
+        Slider subPercentage = new Slider(0, 500, 0);
         subPercentage.setShowTickLabels(true);
         subPercentage.setShowTickMarks(true);
         subPercentage.setDisable(true);
