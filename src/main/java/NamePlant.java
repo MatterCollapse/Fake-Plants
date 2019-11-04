@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class RandomSpecies {
+public class NamePlant {
 
     private static String[] Beginning = { "Sol", "Tu", "Alli", "Se", "Lyco", "Melo", "Sa", "Baby", "A", "Ma", "Lo",
             "Pere", "Multi", "Festu", "Cucu", "Lage", "Sice", "Poa", "Cir", "Vul", "Ole", "Arve", "Festu", "Dacty",
