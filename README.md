@@ -41,3 +41,16 @@ Changes not staged for commit:
 	modified:   README.md
 
 This means we have LOCAL changes and no REMOTE changes
+
+3. To add ALL LOCAL changes to commit (LOCALLY) and then push to remote:
+- add ALL changes:
+git add .
+
+- add specific file
+git add README.md
+
+- commit changes
+git commit -m "some comments for commit"
+
+- push changes
+git push
